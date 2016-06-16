@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_n6i3QDLmEeakqson-F-uSQ" id="_n6hCEDLmEeakqson-F-uSQ" label="GToI_ImportBP" creationDate="2016-06-15T12:47:58.387+0200" modificationDate="2016-06-16T14:08:59.133+0200" version="0.1" statusCode="" item="_n6i3QjLmEeakqson-F-uSQ" displayName="GToI_ImportBP">
+    <author href="../talend.project#_m8pWcDOoEea-2oWNU5QDFg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_wii5sDOoEea-2oWNU5QDFg" path="" locked="true" lockDate="2016-06-16T13:57:37.798+0200">
+    <locker href="../talend.project#_m8pWcDOoEea-2oWNU5QDFg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_n6i3QjLmEeakqson-F-uSQ" property="_n6i3QDLmEeakqson-F-uSQ" state="_wii5sDOoEea-2oWNU5QDFg">
+    <process href="GToI_ImportBP_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_FCxiwjLIEeaI3MA_W8ns9g" id="_hF4FUDLBEeaI3MA_W8ns9g" label="As400Access" purpose="As400Access" creationDate="2016-06-15T09:09:19.460+0200" modificationDate="2016-06-16T14:32:30.934+0200" version="0.1" statusCode="" item="_FCxixDLIEeaI3MA_W8ns9g" displayName="As400Access">
+    <author href="../../talend.project#_m8pWcDOoEea-2oWNU5QDFg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_wk8tcDOoEea-2oWNU5QDFg" path="" locked="true" lockDate="2016-06-16T14:32:23.961+0200">
+    <locker href="../../talend.project#_m8pWcDOoEea-2oWNU5QDFg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_FCxixDLIEeaI3MA_W8ns9g" property="_FCxiwjLIEeaI3MA_W8ns9g" state="_wk8tcDOoEea-2oWNU5QDFg">
+    <connection href="As400Access_0.1.item#_FCwUoDLIEeaI3MA_W8ns9g"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

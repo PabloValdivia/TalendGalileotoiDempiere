@@ -1,0 +1,2 @@
+TOS_Jobs_Records={"LOCAL_PROJECT"\:{"projects"\:{"METADATA_CONNECTIONS"\:{"nb"\:2,"nb.used"\:2,"types"\:{"Access"\:1,"PostgreSQL"\:1}},"METADATA_FILE_EXCEL"\:{"nb"\:2,"nb.used"\:2},"PROCESS"\:{"details"\:{"components"\:{"tAccessInput"\:3,"tFileInputExcel"\:2,"tMap"\:3,"tPostgresqlOutput"\:2,"tSetGlobalVar"\:1},"nb.components"\:11,"nb.contextVars"\:0},"nb"\:3}},"type"\:"local"}}
+eclipse.preferences.version=1

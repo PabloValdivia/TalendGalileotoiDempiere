@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_BcYvQDLmEeakqson-F-uSQ" name="CONV_UM" dataPackage="_BcYvQTLmEeakqson-F-uSQ" Server="Localhost 127.0.0.1" FilePath="/progtalend/CONV_UM.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Foglio1" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="Foglio1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_BcYvQTLmEeakqson-F-uSQ" name="default" dataManager="_BcYvQDLmEeakqson-F-uSQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_BcYvQjLmEeakqson-F-uSQ" id="_wijrYDLlEeakqson-F-uSQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BcYvQzLmEeakqson-F-uSQ" label="UMFROM" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BcYvRDLmEeakqson-F-uSQ" label="UMTO" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
