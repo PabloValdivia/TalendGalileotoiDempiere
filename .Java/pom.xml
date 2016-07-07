@@ -10,7 +10,7 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>pom_routines.xml</module>
-    <module>pom_GToI_ImportProduct_0.1.xml</module>
+    <module>pom_GToI_ImportBP_0.1.xml</module>
   </modules>
   <properties>
     <encoding>UTF-8</encoding>
@@ -33,11 +33,6 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
-      <artifactId>geronimo-stax-api_1.0_spec-1.0.1</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
       <artifactId>log4j-1.2.15</artifactId>
       <version>6.0.0-SNAPSHOT</version>
     </dependency>
@@ -49,11 +44,6 @@
     <dependency>
       <groupId>org.talend.libraries</groupId>
       <artifactId>dom4j-1.6.1</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>poi-ooxml-schemas-3.11-20141221</artifactId>
       <version>6.0.0-SNAPSHOT</version>
     </dependency>
     <dependency>
@@ -78,16 +68,6 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
-      <artifactId>xmlbeans-2.6.0</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>poi-ooxml-3.11-20141221_modified_talend</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
       <artifactId>jackcess-2.1.0</artifactId>
       <version>6.0.0-SNAPSHOT</version>
     </dependency>
@@ -98,17 +78,7 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
-      <artifactId>poi-3.11-20141221_modified_talend</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
       <artifactId>postgresql-8.3-603.jdbc3</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>poi-scratchpad-3.11-20141221</artifactId>
       <version>6.0.0-SNAPSHOT</version>
     </dependency>
   </dependencies>

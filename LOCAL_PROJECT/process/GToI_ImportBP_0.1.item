@@ -578,13 +578,13 @@
         <mapperTableEntries name="groupvalue" expression="" type="id_String" nullable="true"/>
         <mapperTableEntries name="c_bp_group_id" expression="1000001.00" type="id_Double" nullable="true"/>
         <mapperTableEntries name="c_bpartner_location_id" expression="" type="id_Double" nullable="true"/>
-        <mapperTableEntries name="address1" expression="StringHandling.BTRIM(row1.INDICA)" type="id_String" nullable="true"/>
+        <mapperTableEntries name="address1" expression="StringHandling.BTRIM(row1.INDICA) " type="id_String" nullable="true"/>
         <mapperTableEntries name="address2" expression="" type="id_String" nullable="true"/>
         <mapperTableEntries name="postal" expression="row1.CAPOCA" type="id_String" nullable="true"/>
         <mapperTableEntries name="postal_add" expression="" type="id_String" nullable="true"/>
         <mapperTableEntries name="city" expression="StringHandling.BTRIM(row1.LOCACA)" type="id_String" nullable="true"/>
         <mapperTableEntries name="c_region_id" expression="" type="id_Double" nullable="true"/>
-        <mapperTableEntries name="regionname" expression="row1.PROVCA" type="id_String" nullable="true"/>
+        <mapperTableEntries name="regionname" expression="StringHandling.BTRIM(row1.PROVCA) " type="id_String" nullable="true"/>
         <mapperTableEntries name="c_country_id" type="id_Double" nullable="true"/>
         <mapperTableEntries name="countrycode" expression="StringHandling.LEFT(row1.NAZICA,2) " type="id_String" nullable="true"/>
         <mapperTableEntries name="title" type="id_String" nullable="true"/>
